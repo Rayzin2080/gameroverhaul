@@ -391,6 +391,7 @@ create_country_leader = {
 	traits = {
 		champion_of_peace_1
 		economic_reformer
+		epic_gamer
 	}
 }
 

@@ -316,6 +316,7 @@ create_country_leader = {
 	ideology = nazism
 	traits = {
 		dictator
+		epic_gamer
 	}
 }
 

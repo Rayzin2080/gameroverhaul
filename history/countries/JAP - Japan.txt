@@ -315,6 +315,7 @@ create_country_leader = {
 		warrior_code
 		emperor_showa
 		imperial_sanction
+		weeb
 	}
 	id = 700 #Hirohito
 }
