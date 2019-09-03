@@ -313,9 +313,10 @@ create_country_leader = {
 	ideology = fascism_ideology
 	traits = {
 		warrior_code
+		weeb
 		emperor_showa
 		imperial_sanction
-		weeb
+		
 	}
 	id = 700 #Hirohito
 }

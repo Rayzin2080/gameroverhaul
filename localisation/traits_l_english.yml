@@ -1,6 +1,4 @@
 ﻿l_english:
- epic_gamer:0 "Epic Gamer"
- weeb:0 "Weeb"
  cc_leader:0 "General"
  fm_leader:0 "Field Marshal"
  navy_leader:0 "Admiral"
@@ -303,7 +301,9 @@
  warrior_code:0 "Warrior Code"
  imperial_sanction:0 "Imperial Sanction"
  emperor_showa:0 "Emperor Showa"
- dislikes_germany:0 "Dislikes Germany"
+ dislikes_germany:0 "Dislikes Gamers"
+ epic_gamer:0 "Epic Gamer"
+ weeb:0 "Weeb"
  staunch_constitutionalist:0 "Staunch Constitutionalist"
  cornered_fox:0 "Cornered Fox"
  stout_defender:0 "Stout Defender"
