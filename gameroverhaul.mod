@@ -4,3 +4,4 @@
  
  picture = "gamersrise.png"
  tags = { "Major" "Mod" }
+ supported_version="1.7.2"
