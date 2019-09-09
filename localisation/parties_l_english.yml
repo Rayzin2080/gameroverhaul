@@ -296,6 +296,8 @@
  RAJ_fascism_party_long:0 "All-India Hindu Assembly"
  PER_communism_party:0 "Tudeh Party"
  PER_communism_party_long:0 "Tudeh Party"
+ PER_fascism_party:0 "HEAAA"
+ PER_fascism_party_long:0 "Hizb Eummal Alqamar Alwatanii Al'iiranii"
  PER_neutrality_party:0 "Pahlavi Dynasty"
  COL_communism_party:0 "PCC"
  COL_communism_party_long:0 "Partido Comunista Colombiano"
